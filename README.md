@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asad Haider</h1>
-<h3 align="center">A passionate Full Stack Software Developer 🚀 having an experience of building Web and Backend Applications with JavaScript / Reactjs / Angular / VueJS / Nodejs / Python and some other cool libraries and frameworks.</h3>
+<h3 align="center">A passionate Full Stack Software Developer 🚀 having an experience of building Web and Backend Applications with JavaScript, Reactjs, Angular, VueJS, Nodejs, Python and some other cool libraries and frameworks.</h3>
 
 - 🌱 I’m currently learning **DevOps**
+
+- 👨‍💻 All of my projects are available at [https://asadhaider.net](https://asadhaider.net)
 
 - 💬 Ask me about **Angular, JavaScript, NodeJS, Python, Scrapy**
 
